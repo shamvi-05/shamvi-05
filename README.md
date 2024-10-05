@@ -1,32 +1,18 @@
-# Shambhavi Singh
 
-🚀 Problem Solver | Evolving Developer🌐
+👋Hi ,  I'm passionate about leveraging technology to solve real-world problems, particularly in software development, front-end engineering, and cloud computing. As an evolving developer, I continuously explore new tools and frameworks, working on projects ranging from Flutter apps to full-stack chat applications and web scraping tools.
 
-
-🌍 Connect me :
-- [Gmail](shamvi050801@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shambhavi-singh-4b130a205/)
-
-
-
-
-
-## Summary 📚
-
-I am currently an Integrated Master's student in Mathematics and Computing at Birla Institute of Technology, Mesra, specializing in backend development and cloud services. I am deeply passionate about using DevOps and modern CI/CD practices to streamline software development processes.
-
+🌍 Contact : [Gmail](shamvi050801@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shambhavi-singh-4b130a205/)
 
 
 ## Experience 💼
 
 **Software Engineering Intern**  
 *Microsoft, Hyderabad*  
-May 2024 - July 2024  
 - Developed REST APIs for Azure Container Apps, improving deployment scalability and CI/CD integration with GitHub Actions.
 
 **OpenSource Contributor**  
 *GitLab: The DevSecOps Platform (Remote)*  
-May 2022 - Aug 2022  
-- Enhanced the GitLab Content Editor and Wiki Editing Experience, reducing user error and improving UI consistency.
+- Enhanced the GitLab Content Editor and Wiki Editing Experience, reducing user error and improving UI consistency [Merge Request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/91093)
 
 
 
@@ -50,7 +36,7 @@ May 2022 - Aug 2022
 - A React web application which uses OpenWeather Map API ,NewsAPI , and Spotify API.It helps in weather forecast of your current location displaying you News and alerts also recommending songs on the basis of the climate.
 
 **ChatGPT - Google doc**
-OpenAI GPT-3 API Integration with GoogleDocs - This adds a paraphraser for the selected/highlighted text.
+- OpenAI GPT-3 API Integration with GoogleDocs - This adds a paraphraser for the selected/highlighted text.
 
 
 
