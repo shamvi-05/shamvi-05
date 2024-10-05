@@ -44,7 +44,13 @@ May 2022 - Aug 2022
 - A MERN Stack real-time chat application with user authentication managed through MongoDB and Socket.io.
 
 **Job Search Engine**  
-- A Python-based tool parsing job data from websites, with a GUI built using Tkinter.
+- A Python-based tool parsing job data from websites such as Linkedin , Indeed and Shine, with a GUI built using Tkinter.
+
+**Stormy**  
+- A React web application which uses OpenWeather Map API ,NewsAPI , and Spotify API.It helps in weather forecast of your current location displaying you News and alerts also recommending songs on the basis of the climate.
+
+**ChatGPT - Google doc**
+OpenAI GPT-3 API Integration with GoogleDocs - This adds a paraphraser for the selected/highlighted text.
 
 
 
@@ -55,8 +61,8 @@ May 2022 - Aug 2022
 
 ## Volunteer Experience 💪
 
-**Community Lead**, Codess.Cafe  
-Delhi, India - Contributed to over 1000 students' growth in technical and soft skills.  
+**Community Mentor**, Codess.Cafe  
+Contributing to students'who are Early in Career to grow in technical and soft skills.  
 
 
 
